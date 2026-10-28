@@ -1,12 +1,24 @@
-# Arduino Projects List
+# Arduino/Embedded Systems Projects List
 - Simple Traffic Light
-- Intro to Buttons Circuit
 - LCD Screen Circuit
-- Basic Logic Gates
 - Voltmeter
+
+# Circuits/Electronics Projects List
+- Logic Gates with Transistors
+  - AND Gate
+  - OR Gate
+  - Inverter Gate
+  - Personal Notes/Circuit Diagrams
+    
+- Logic Gates without Transistors
+  - AND Gate
+  - OR Gate
+- Intro to Buttons Circuit
+
 
 # Demos
 Most projects include pictures and/or videos, feel free to take a look at them to understand functionality!
+
 
 # Disclaimer
 This Arduino project is provided for educational and experimental purposes only.
